@@ -1,3 +1,6 @@
 sequencing is form rhapsody, in class was 10x
 
 path to data in homework PDF
+
+reading in data step1a make sure to remove header nonsense (NOT ALL SAMPLES HAVE THE SAME NUMBER OF LINES FOR HEADER!!!), 10x doesnt require this, rhapsody does
+
